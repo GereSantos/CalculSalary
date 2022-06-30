@@ -1,0 +1,16 @@
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\bin\Debug\net5.0\DataEmployee.exe
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\bin\Debug\net5.0\DataEmployee.deps.json
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\bin\Debug\net5.0\DataEmployee.runtimeconfig.json
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\bin\Debug\net5.0\DataEmployee.runtimeconfig.dev.json
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\bin\Debug\net5.0\DataEmployee.dll
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\bin\Debug\net5.0\DataEmployee.pdb
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\obj\Debug\net5.0\DataEmployee.csproj.AssemblyReference.cache
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\obj\Debug\net5.0\DataEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\obj\Debug\net5.0\DataEmployee.AssemblyInfoInputs.cache
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\obj\Debug\net5.0\DataEmployee.AssemblyInfo.cs
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\obj\Debug\net5.0\DataEmployee.csproj.CoreCompileInputs.cache
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\obj\Debug\net5.0\DataEmployee.dll
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\obj\Debug\net5.0\refint\DataEmployee.dll
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\obj\Debug\net5.0\DataEmployee.pdb
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\obj\Debug\net5.0\DataEmployee.genruntimeconfig.cache
+C:\Users\geremias.bezerra\source\repos\DataEmployee\DataEmployee\obj\Debug\net5.0\ref\DataEmployee.dll
